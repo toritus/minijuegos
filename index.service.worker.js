@@ -4,9 +4,9 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791678939|6929156';
+const CACHE_VERSION = '1791679102|4586550';
 /** @type {string} */
-const CACHE_PREFIX = 'Un Dedo-sw-cache-';
+const CACHE_PREFIX = 'Minis-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'index.offline.html';
